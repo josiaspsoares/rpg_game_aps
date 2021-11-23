@@ -1,5 +1,5 @@
 # RPG Game
-Jogo simples desenvolvido em Flutter como APS da disciplina de Programação Orientada a Objeto
+Jogo de ataque e defesa simples desenvolvido em Flutter como APS da disciplina de Programação Orientada a Objeto
 
 ## Atividades Práticas Supervisionadas II – APS II
 
